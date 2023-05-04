@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/net4api/net4api/bin
+/net4api/.vs/net4api
+/net4api/net4api/obj
+/net4api/net4api/Properties/PublishProfiles
+/net4api/packages
