@@ -9,8 +9,9 @@
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
-    <ActiveDebugTarget>ContainerToolsProjectDebugExtension</ActiveDebugTarget>
-    <NameOfLastUsedPublishProfile>C:\Git\azure-appservice-win-container\net4api\net4api\Properties\PublishProfiles\registry.hub.docker.com_andyvan27.pubxml</NameOfLastUsedPublishProfile>
+    <ActiveDebugTarget>
+    </ActiveDebugTarget>
+    <NameOfLastUsedPublishProfile>C:\Git\azure-appservice-win-container\net4api\net4api\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
